@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4931da3-d6e6-4e02-9298-73b9a5aa02c2" name="Default Changelist" comment="" />
+    <list default="true" id="c4931da3-d6e6-4e02-9298-73b9a5aa02c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/data_structures2/sparse_array/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/数据结构.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,19 +35,45 @@
     </option>
   </component>
   <component name="ProjectId" id="1cA15hxBM2ky8BAG5VXn4a90vqG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/atguigu/algorithm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.data_structures2.sparse_array.SparseArray" />
+      <module name="data_structures-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.data_structures2.sparse_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparseArray" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -62,11 +100,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589956402819</updated>
-      <workItem from="1589956405410" duration="264000" />
+      <workItem from="1589956405410" duration="714000" />
+      <workItem from="1589957490709" duration="5366000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589961689504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.0.1280.695/0.0.1536.824@0.0.1536.824" timestamp="1589961689504" />
+    <state x="191" y="5" key="CommitChangelistDialog2" timestamp="1589964249251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="191" y="5" key="CommitChangelistDialog2/-2560.0.1280.695/0.0.1536.824@0.0.1536.824" timestamp="1589964249251" />
+    <state x="530" y="155" key="FileChooserDialogImpl" timestamp="1589962387674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="155" key="FileChooserDialogImpl/-2560.0.1280.695/0.0.1536.824@0.0.1536.824" timestamp="1589962387674" />
+    <state width="1495" height="603" key="GridCell.Tab.0.bottom" timestamp="1589963115560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="603" key="GridCell.Tab.0.bottom/-2560.0.1280.695/0.0.1536.824@0.0.1536.824" timestamp="1589963115560" />
+    <state width="1495" height="603" key="GridCell.Tab.0.center" timestamp="1589963115560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="603" key="GridCell.Tab.0.center/-2560.0.1280.695/0.0.1536.824@0.0.1536.824" timestamp="1589963115560" />
+    <state width="1495" height="603" key="GridCell.Tab.0.left" timestamp="1589963115560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="603" key="GridCell.Tab.0.left/-2560.0.1280.695/0.0.1536.824@0.0.1536.824" timestamp="1589963115560" />
+    <state width="1495" height="603" key="GridCell.Tab.0.right" timestamp="1589963115560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="603" key="GridCell.Tab.0.right/-2560.0.1280.695/0.0.1536.824@0.0.1536.824" timestamp="1589963115560" />
+    <state x="156" y="42" width="1201" height="715" key="SettingsEditor" timestamp="1589962407123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="156" y="42" width="1201" height="715" key="SettingsEditor/-2560.0.1280.695/0.0.1536.824@0.0.1536.824" timestamp="1589962407123" />
   </component>
 </project>
